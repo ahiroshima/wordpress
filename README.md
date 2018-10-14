@@ -1,0 +1,2 @@
+# wordpress
+WordPress環境をdockerで構築する為のアセット
